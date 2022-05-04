@@ -1,5 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murad Muqbel
-
+### Hi there 👋
+[!Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMuradZee)
 <!--
 **muradgm/muradgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
