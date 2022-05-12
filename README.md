@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murad Muqbel
 ---
 ![twitter](https://img.shields.io/twitter/url?label=Follow%20me%21&style=social&url=https%3A%2F%2Ftwitter.com%2FMuradZee)
+![LinkedIn](https://www.linkedin.com/in/muradmuqbel)
 <!--
 **muradgm/muradgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
