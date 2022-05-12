@@ -1,7 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murad Muqbel
 ---
-![twitter](https://img.shields.io/twitter/url?label=Follow%20me%21&style=social&url=https%3A%2F%2Ftwitter.com%2FMuradZee)
- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/muradmuqbel)
+<!-- ![twitter](https://img.shields.io/twitter/url?label=Follow%20me%21&style=social&url=https%3A%2F%2Ftwitter.com%2FMuradZee) -->
+[![linkedin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/muradmuqbel)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/MuradZee)
+ 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!--
 **muradgm/muradgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
