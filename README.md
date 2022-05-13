@@ -3,6 +3,8 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
+
+Almost a graduate student to become a Fullstack web developer.
 <!-- --- -->
 <!-- ![twitter](https://img.shields.io/twitter/url?label=Follow%20me%21&style=social&url=https%3A%2F%2Ftwitter.com%2FMuradZee) -->
 <!-- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muradmuqbel)
