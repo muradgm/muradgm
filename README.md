@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Murad Muqbell</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-<hr>
+
 
 <h3>Welcome to my profile!</h3>
 <p>I'm Murad Muqbel, A passionate Fullstack web developer from <b>Jordan</b>, currently based in  <b>Berlin, Germany</b>.</p>
@@ -37,7 +37,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradgm&show_icons=true&locale=en&layout=compact" alt="muradgm" /></p>
 
 <br  />
-<hr />
+---
 <h3>Where to find me</h3>
 <p><a href="https://github.com/muradgm" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Muradzee" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/murad-muqbel-b88b38232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
