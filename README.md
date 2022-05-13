@@ -1,4 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murad Muqbel
+<!-- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murad Muqbel -->
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Murad Muqbel</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
+<br />
 ---
 <!-- ![twitter](https://img.shields.io/twitter/url?label=Follow%20me%21&style=social&url=https%3A%2F%2Ftwitter.com%2FMuradZee) -->
 <!-- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muradmuqbel)
