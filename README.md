@@ -36,7 +36,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradgm&show_icons=true&locale=en&layout=compact" alt="muradgm" /></p>
 
-     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=muradgm&show_icons=true&theme=radical" alt="muradgm" /></p>
+     <p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muradgm)](https://github.com/muradgm/github-readme-stats)</p>
 
 <br  />
 
