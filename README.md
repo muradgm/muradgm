@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>, I'm <a href="https://www.blackcater.win/" target="_blank">Murad Muqbel</a> 
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I'm <a href="https://www.blackcater.win/" target="_blank">Murad Muqbel</a> </h1>
 
 <br />
 <h3>Welcome to my profile!</h3>
