@@ -1,15 +1,17 @@
 
-<h1 align="center">Hi <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I'm <a href="https://www.blackcater.win/" target="_blank">Murad Muqbel</a> </h1>
+<h3 align="center">Hey there <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h3>
 
-<!---<br />
-<h3>Welcome to my profile!</h3>
--->
-<p align="center">I'm a passionate Fullstack web developer from <b>Jordan</b>, currently based in  <b>Berlin, Germany</b>.</p>
+<!-- -<br /> -->
+
+<p>Welcome to my page!</p>
+<p>I'm <a href="https://muradmuqbel.netlify.com/" target="_blank">Murad Muqbel</a>, a passionate Fullstack web developer from <b>Jordan</b>, currently based in  <b>Berlin, Germany</b>.</p>
 
 <br/>
-<h4 align="left">Technologies i use:</h4>
-<p align="left">
+<h5><img src="programming.png" width="14"/> I'm currently working on: <b><a href="https://github.com/muradgm/JS-Skill-Assessment" target="_blank"> JavaScript Skill Assessment App</a></b></h5>
+<h5><img src="open-book.png" width="14"/> I'm currently learning: <b><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa" target="_blank"> JavaScript Algorithms</a></b></h5>
+<h4>Technologies i use:</h4>
+<p>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
