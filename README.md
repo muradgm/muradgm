@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!-- -<br /> -->
 
 <p>Welcome to my page!</p>
-<p>I'm <a href="https://muradmuqbel.netlify.com/" target="_blank">Murad Muqbel</a>, a passionate Fullstack web developer from <b>Jordan</b>, currently based in  <b>Berlin, Germany</b>.</p>
+<p>I'm <a href="https://muradmuqbel.netlify.com/" target="_blank"><b>Murad Muqbel</b></a>, a passionate Fullstack web developer from <b>Jordan</b>, currently based in  <b>Berlin, Germany</b>.</p>
 
 <br/>
 <h3><img src="/programming.png" width="18"/> I'm currently working on: <b><a href="https://github.com/muradgm/JS-Skill-Assessment" target="_blank"> JavaScript Skill Assessment App</a></b></h3>
