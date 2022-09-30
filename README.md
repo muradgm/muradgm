@@ -1,6 +1,6 @@
 
-<h3 align="center">Hey there <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h3>
+<h1 align="center">Hey there <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <!-- -<br /> -->
 
