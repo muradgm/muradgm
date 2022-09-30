@@ -8,9 +8,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p>I'm <a href="https://muradmuqbel.netlify.com/" target="_blank">Murad Muqbel</a>, a passionate Fullstack web developer from <b>Jordan</b>, currently based in  <b>Berlin, Germany</b>.</p>
 
 <br/>
-<h4><img src="/programming.png" width="20"/> I'm currently working on: <b><a href="https://github.com/muradgm/JS-Skill-Assessment" target="_blank"> JavaScript Skill Assessment App</a></b></h4>
-<h4><img src="/images/open-book.png" width="20"/> I'm currently learning: <b><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa" target="_blank"> JavaScript Algorithms</a></b></h4>
-<h4><img src="/images/tool-box.png" width="22"/> Tools i use:</h4>
+<h3><img src="/programming.png" width="20"/> I'm currently working on: <b><a href="https://github.com/muradgm/JS-Skill-Assessment" target="_blank"> JavaScript Skill Assessment App</a></b></h3>
+<h3><img src="/images/open-book.png" width="20"/> I'm currently learning: <b><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa" target="_blank"> JavaScript Algorithms</a></b></h3>
+<h3><img src="/images/tool-box.png" width="22"/> Tools i use:</h3>
 <p>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
@@ -44,7 +44,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
     
     
-<h4><img src="/images/search.png" width="20"/> Where to find me:</h4>
+<h3><img src="/images/search.png" width="20"/> Where to find me:</h3>
 <p><a href="mailto:muradgm@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/Muradmuqbel" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/murad-muqbel-b88b38232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
