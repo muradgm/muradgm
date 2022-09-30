@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!---<br />
 <h3>Welcome to my profile!</h3>
 -->
-<p style="text-align:center">I'm Murad Muqbel, A passionate web developer from <b>Jordan</b>, currently based in  <b>Berlin, Germany</b>.</p>
+<p align="center">A passionate web developer from <b>Jordan</b>, currently based in  <b>Berlin, Germany</b>.</p>
 
 <br/>
 <h3 align="left">Languages and Tools i use:</h3>
