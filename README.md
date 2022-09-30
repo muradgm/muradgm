@@ -8,7 +8,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="center">I'm a passionate Fullstack web developer from <b>Jordan</b>, currently based in  <b>Berlin, Germany</b>.</p>
 
 <br/>
-<h3 align="left">Languages and Tools i use:</h3>
+<h4 align="left">Technologies i use:</h4>
 <p align="left">
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
