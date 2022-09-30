@@ -35,13 +35,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 <br  />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradgm&show_icons=true&locale=en&layout=compact" alt="muradgm" /></p>
-<a href="https://github.com/muradgm/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradgm&show_icons=true&locale=en&layout=compact" alt="muradgm" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muradgm&show_icons=true&layout=compact" alt="muradgm" />
-</a>
-     
-     ![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muradgm&show_icons=true&theme=radical)
-
 <br  />
 
     
