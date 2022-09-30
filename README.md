@@ -35,8 +35,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 <br  />
 
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradgm&show_icons=true&locale=en&layout=compact" alt="muradgm" />
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=muradgm&show_icons=true&layout=compact" alt="muradgm" />
+     <div style="display:inline-block">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=muradgm&show_icons=true&locale=en&layout=compact" alt="muradgm" />
+<img  src="https://github-readme-stats.vercel.app/api?username=muradgm&show_icons=true&layout=compact" alt="muradgm" />
+     </div>
 <br  />
 
     
