@@ -35,7 +35,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 <br  />
 
-<img style="float: left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradgm&show_icons=true&locale=en&layout=compact" alt="muradgm" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muradgm&show_icons=true&locale=en&layout=compact" alt="muradgm" />
 <img  src="https://github-readme-stats.vercel.app/api?username=muradgm&show_icons=true&layout=compact" alt="muradgm" />
 <br  />
 
@@ -45,4 +45,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p><a href="mailto:muradgm@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://twitter.com/Muradmuqbel" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/murad-muqbel-b88b38232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-//<br/>Currently, the weather in <b>Berlin</b> is: <b> 18°C, <i>clear sky</i></b> Today, the sun rises at <b>05:13</b> and sets at <b>20:51</b>.</p>
+<br/>Currently, the weather in <b>Berlin</b> is: <b> 18°C, <i>clear sky</i></b> Today, the sun rises at <b>05:13</b> and sets at <b>20:51</b>.</p>
