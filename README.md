@@ -9,7 +9,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br/>
 <h3><img src="/programming.png" width="18"/> I'm currently working on: <b><a href="https://github.com/muradgm/JS-Skill-Assessment" target="_blank"> JavaScript Skill Assessment App</a></b></h3>
-<h3><img src="/images/open-book.png" width="18"/> I'm currently learning: <b><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa" target="_blank"> JavaScript Algorithms</a></b></h3>
+<h3><img src="/images/open-book.png" width="18"/> I'm currently learning: <b><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa" target="_blank"> Data Structure and Algorithms</a></b></h3>
 <h3><img src="/images/tool-box.png" width="20"/> Tools i use:</h3>
 <p>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
